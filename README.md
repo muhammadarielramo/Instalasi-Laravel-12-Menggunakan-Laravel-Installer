@@ -54,7 +54,7 @@ laravel new proyekbaru
 
 ![image](https://github.com/user-attachments/assets/5c8d0ec6-91ad-4761-80d4-445aba47f6f4)
 
-- Pilih starter kit yang ingin dipakai (opsional)
+- Pilih starter kit yang ingin dipakai
 
 ![image](https://github.com/user-attachments/assets/f3d1f468-8b26-498c-b0ce-1bc94eae87eb)
 
